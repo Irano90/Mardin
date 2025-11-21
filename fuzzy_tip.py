@@ -1,6 +1,6 @@
-# Nama : Nama Kamu
-# NIM  : NIM Kamu
-# Mata Kuliah : Fuzzy Logic / AI (contoh, sesuaikan)
+# Nama : Brilliant Irano Mardin
+# NIM  : 32602200140
+# Mata Kuliah : Kecerdasan Buatan_FKCBD_20251
 
 import numpy as np
 
