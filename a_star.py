@@ -1,7 +1,7 @@
 
-# Nama : Nama Kamu
-# NIM  : NIM Kamu
-# Mata Kuliah : Pencarian / AI (contoh, sesuaikan)
+# Nama : Brilliant Irano Mardin
+# NIM  : 32602200140
+# Mata Kuliah : Kecerdasan Buatan_FKCBD_20251
 
 import heapq
 import math
